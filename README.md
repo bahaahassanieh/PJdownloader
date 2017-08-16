@@ -1,12 +1,17 @@
 # PJdownloader
 lebanese public journal downloader
 
-Usage: PJ downloader options\n
-      -y: specify the year \n
-      -i: specify the issue number\n
-      -s: start page\n
-      -e: end page\n
+Usage: PJ downloader options
+
+      -y: specify the year
+      
+      -i: specify the issue number
+      
+      -s: start page
+      
+      -e: end page
       
       
-example :\n
+example :
+
         PJdownloader.py -y 2017 -i 35 -s 5928 -e 5942 
